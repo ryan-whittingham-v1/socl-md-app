@@ -5,6 +5,7 @@ import { Grid } from 'semantic-ui-react';
 
 import PostCard from '../components/PostCard';
 
+
 function Home() {
   const {
     loading,
