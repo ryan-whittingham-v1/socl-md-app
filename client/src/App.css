@@ -9,3 +9,7 @@
     width: 400px;
     margin: auto;
 }
+
+.button:focus {
+    background-color: rgb(47, 0, 255);
+}
